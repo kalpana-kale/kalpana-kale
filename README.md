@@ -23,7 +23,7 @@ Software Developer
 I have been learning to code for 2 years, after switching careers. I started to code with Python, I have really found a passion for software development.
 
 * 🌍  I'm based in United Kingdom
-* 🧠  I'm learning Software Development
+* 🧠  I'm learning Cloud Engineering, Linux, AWS, Networking, Security
 
 ### Skills
 
