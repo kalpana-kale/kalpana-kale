@@ -25,14 +25,14 @@ I have been Working from 3+ years in web developement. My journey began with a f
 Staying updated with the latest trends and technologies is essential to me, as I believe in crafting responsive, SEO-optimized sites that stand out. I’m driven by a desire to solve problems and bring visions to life, whether it's a personal blog, a business site, or an e-commerce platform. My passion lies in the details—ensuring every element is optimized for performance and aesthetics.
 
 Ultimately, I find joy in collaboration, working closely with clients to understand their goals and delivering solutions that exceed expectations. WordPress is more than just a platform for me; it’s a canvas where creativity meets functionality.
-
-* 🌍  I'm based in United Kingdom
-* 🧠  Strategies: <ol start="1">
+<ul>
+<li>* 🌍  I'm based in United Kingdom</li>
+<li>* 🧠  Strategies: </li><ol start="1">
 <li> Real-World Application: You can apply theoretical knowledge immediately, reinforcing learning through practical experience.</li>
 <li>Skill Development: Encountering challenges at work allows you to develop new skills and improve existing ones in a hands-on environment.</li>
 <li>Networking Opportunities: Collaborating with colleagues and industry professionals can provide insights and mentorship that enrich your learning journey.</li>
 <li>Adaptability: Working in a dynamic environment helps you become more adaptable and open to new ideas and methods.</li>
-<li>Problem-Solving: Real-time problem-solving fosters critical thinking and enhances your ability to tackle complex issues.</li></ol?
+<li>Problem-Solving: Real-time problem-solving fosters critical thinking and enhances your ability to tackle complex issues.</li></ol></ul>
  
 
 ### Skills
