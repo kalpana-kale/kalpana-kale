@@ -36,7 +36,7 @@ Ultimately, I find joy in collaboration, working closely with clients to underst
 
 <li>Adaptability: Working in a dynamic environment helps you become more adaptable and open to new ideas and methods.</li>
 
-<li>Problem-Solving: Real-time problem-solving fosters critical thinking and enhances your ability to tackle complex issues.</li>
+<li>Problem-Solving: Real-time problem-solving fosters critical thinking and enhances your ability to tackle complex issues.</li></ol?
  
 
 ### Skills
