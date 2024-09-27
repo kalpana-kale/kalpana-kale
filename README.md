@@ -20,10 +20,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 ------------------
 
-I have been learning to code for 2 years, after switching careers. I started to code with Python, I have really found a passion for software development.
+I have been Working from 3+ years in web developement. My journey began with a fascination for web design and coding, leading me to master WordPress and its vast ecosystem. I love creating custom themes and plugins that not only meet client needs but also enhance user experience.
+
+Staying updated with the latest trends and technologies is essential to me, as I believe in crafting responsive, SEO-optimized sites that stand out. I’m driven by a desire to solve problems and bring visions to life, whether it's a personal blog, a business site, or an e-commerce platform. My passion lies in the details—ensuring every element is optimized for performance and aesthetics.
+
+Ultimately, I find joy in collaboration, working closely with clients to understand their goals and delivering solutions that exceed expectations. WordPress is more than just a platform for me; it’s a canvas where creativity meets functionality.
 
 * 🌍  I'm based in United Kingdom
-* 🧠  I'm learning Cloud Engineering, Linux, AWS, Networking, Security
+* 🧠  I'm learning while 
 
 ### Skills
 
