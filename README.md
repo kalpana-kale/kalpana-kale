@@ -27,15 +27,11 @@ Staying updated with the latest trends and technologies is essential to me, as I
 Ultimately, I find joy in collaboration, working closely with clients to understand their goals and delivering solutions that exceed expectations. WordPress is more than just a platform for me; it’s a canvas where creativity meets functionality.
 
 * 🌍  I'm based in United Kingdom
-* 🧠  Strategies: <ol>
-  <li> Real-World Application: You can apply theoretical knowledge immediately, reinforcing learning through practical experience.</li>
-
+* 🧠  Strategies: <ol start="1">
+<li> Real-World Application: You can apply theoretical knowledge immediately, reinforcing learning through practical experience.</li>
 <li>Skill Development: Encountering challenges at work allows you to develop new skills and improve existing ones in a hands-on environment.</li>
-
 <li>Networking Opportunities: Collaborating with colleagues and industry professionals can provide insights and mentorship that enrich your learning journey.</li>
-
 <li>Adaptability: Working in a dynamic environment helps you become more adaptable and open to new ideas and methods.</li>
-
 <li>Problem-Solving: Real-time problem-solving fosters critical thinking and enhances your ability to tackle complex issues.</li></ol?
  
 
